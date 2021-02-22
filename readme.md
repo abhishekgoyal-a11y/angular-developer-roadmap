@@ -4,6 +4,9 @@ This project aims to collect the most common / important concepts one should lea
 <br>
 Inspired by ["Web Developer Roadmap"](https://github.com/kamranahmedse/developer-roadmap) and ["React Developer Roadmap"](https://github.com/adam-golab/react-developer-roadmap).
 
+## Get free tutorials
+[Angular Js](https://www.techroadmap.in/framework/angularjs/overview/) 
+
 ## Roadmap
 
 ![Roadmap](./angular-dev-roadmap.png)
